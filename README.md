@@ -21,7 +21,7 @@
 
 <br>
 
-
+[![Soumyajit's github stats](https://github-readme-stats.vercel.app/api?username=SoumyajitD)](https://github.com/SoumyajitD
 <br>
 
 ### Contact Me!
