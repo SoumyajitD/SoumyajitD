@@ -9,7 +9,7 @@
 
 <br>
 
-<br> [![Spotify](https://novatorem-git-master.soumyajitd.vercel.app/api/spotify)](https://open.spotify.com/user/31jcqxrtbwdjabdl62eyo5pw7j2a)
+
 
 
 ### Languages I can speak!
