@@ -16,4 +16,15 @@
 ![](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white "Text to show on mouseover")
 ![](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white "Text to show on mouseover")
 
+<br>
+
+[![Soumyajit's github stats](https://github-readme-stats.vercel.app/api?username=SoumyajitD)](https://github.com/SoumyajitD)
+
+<br>
+
+### Contact Me!
+[![](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/7003023457)
+[![](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white "Text to show on mouseover")](https://www.facebook.com/soumyajitd7)
+[![](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white "Text to show on mouseover")](https://mailto:soumyajitdawn@gmail.com)
+
 
