@@ -9,6 +9,9 @@
 
 <br>
 
+<br> [![Spotify](https://novatorem-git-master.soumyajitd.vercel.app/api/spotify)](https://open.spotify.com/user/31jcqxrtbwdjabdl62eyo5pw7j2a)
+
+
 ### Languages I can speak!
 ![](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white "Text to show on mouseover")
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E "Text to show on mouseover")
@@ -18,7 +21,6 @@
 
 <br>
 
-[![Soumyajit's github stats](https://github-readme-stats.vercel.app/api?username=SoumyajitD)](https://github.com/SoumyajitD)
 
 <br>
 
