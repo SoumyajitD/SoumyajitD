@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other Web Devs
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-<a href="https://bit.ly/SoumyajitDawn_CV">Check Out My CV!</a>
+<a href="https://bit.ly/CV_SoumyajitDawn">Check Out My CV!</a>
 <br>
 
 
