@@ -2,10 +2,10 @@
 
 ## I'm an Indie Developer, budding engineer, gamer, and a hardcore meme lover!
 
-- 🔭 I’m currently preparing for Placements
-- 🌱 I’m currently learning Backend
-- 👯 I’m looking to collaborate with other Web Devs
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working for a service based company
+- 🌱 I’m currently learning Java Backend
+- 👯 I’m looking to collaborate with other Java FS developers
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 <a href="https://www.linkedin.com/in/soumyajitdawn/">Check Out My CV!</a>
 <br>
