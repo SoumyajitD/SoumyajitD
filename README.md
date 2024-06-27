@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other Java FS developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
-<a href="https://www.linkedin.com/in/soumyajitdawn/">Check Out My CV!</a>
+<a href="[https://www.linkedin.com/in/soumyajitdawn/](https://www.linkedin.com/in/soumyajitdawn/overlay/1719294409296/single-media-viewer/?profileId=ACoAABiiamwBJqastgL72lAKGAHlSKLOJAtPPu0)">Check Out My CV!</a>
 <br>
 
 
